@@ -111,6 +111,7 @@ By synthesizing the core game engine into hardware, this project eliminates trad
 ### **Project Hardware Setup**
 
 ![Entire Setup](Pictures%20and%20%20Videos/Entire%20Setup.jpeg)
+
 *Hardware Configuration: DE10-Lite board with VGA display and dual joystick controllers*
 
 ### **End-Game Scorecard**
